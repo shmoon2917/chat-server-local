@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# config
+/.vscode
+.env
+refreshToken.txt
+
+# misc
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
